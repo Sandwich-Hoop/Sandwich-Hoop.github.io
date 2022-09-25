@@ -52,7 +52,26 @@ function displayMessage(){
     }
 }
 </script>
-    
+<button onclick="displayMessage()">Guess the phrase and get a steam code</button><br>
+<input type="text" id="msg" >
+
+
+
+<p id="showinputhere"></p>
+
+<script>
+function displayMessage(){
+    let themsg = document.getElementById("msg").value;
+    if (msg = "weezer") { document.write("Right guess")
+      
+    }
+    else if (msg != "weezer") { document.write("big cheeese")
+                              }
+    else{
+        document.getElementById("showinputhere").innerHTML = "No message set";
+    }
+}
+</script>
 </body>
 </html>
 </body>
