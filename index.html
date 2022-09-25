@@ -62,12 +62,15 @@ function displayMessage(){
 <script>
 function displayMessage(){
     let bigbongus = document.getElementById("msg").value;
-    if (bigbongus = "weezer") { document.write("Right guess")
+    if (bigbongus = "weezer"){ 
+      document.write("Right guess")
       
     }
-    else (bigbongus != "weezer") { document.write("big cheeese")
+    else if (bigbongus != "weezer"){ 
+      document.write("big cheeese")
                               }
-   
+    else{
+        document.getElementById("showinputhere").innerHTML = "No message set";
         
 
 }
