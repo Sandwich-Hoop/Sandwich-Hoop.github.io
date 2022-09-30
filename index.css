@@ -7,11 +7,7 @@ body {
 
   
 h1 {
-    border-top: 100px solid red;
-    border-left: 50px solid transparent;
-    border-right: 50px solid transparent;
-    height: 0;
-    width: 100px;
+
   color: white;
   text-align: center;
   font-family: "Brush Script MT", cursive;
