@@ -1,21 +1,5 @@
 body {
-	.quadrat {
-  width: 50px;
-  height: 50px;
-  -webkit-animation: sploingus 1s infinite;  /* Safari 4+ */
-  -moz-animation: sploingus 1s infinite;  /* Fx 5+ */
-  -o-animation: sploingus 1s infinite;  /* Opera 12+ */
-  animation: sploingus 1s infinite;  /* IE 10+, Fx 29+ */
-}
 
-@-webkit-keyframes sploingus {
-  0%, 49% {
-    background-color: rgb(117, 209, 63);
-    border: 3px solid #e50000;
-  }
-  50%, 100% {
-    background-color: #e50000;
-    border: 3px solid rgb(117, 209, 63);
   }
 }
 }
