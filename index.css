@@ -1,18 +1,12 @@
 body {
-	.blink-bg{
-		color: #fff;
-		padding: 10px;
-		display: inline-block;
-		border-radius: 5px;
-		animation: blinkingBackground 2s infinite;
-	}
-	@keyframes blinkingBackground{
-		0%		{ background-color: #10c018;}
-		25%		{ background-color: #1056c0;}
-		50%		{ background-color: #ef0a1a;}
-		75%		{ background-color: #254878;}
-		100%	        { background-color: #04a1d5;}
-	}
+	0, 49%, 99%, 100% {
+    background-color: rgb(117,209,63);
+    border: 3px solid #e50000;
+}
+49%, 50%, 99% {
+    background-color: #e50000;
+    border: 3px solid rgb(117,209,63);
+}
 }
 
   
