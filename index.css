@@ -1,4 +1,5 @@
 body {
+  background-color: SkyBlue;
 
   }
 }
@@ -6,21 +7,11 @@ body {
 
   
 h1 {
-  @keyframes blinking {
-        0% {
-          background-color: #06c3d1;
-          border: 3px solid #666;
-        }
-        100% {
-          background-color: #270da6;
-          border: 3px solid #666;
-        }
-      }
-      #blink {
-        width: 200px;
-        height: 200px;
-        animation: blinking 1s infinite;
-      }
+    border-top: 100px solid red;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    height: 0;
+    width: 100px;
   color: white;
   text-align: center;
   font-family: "Brush Script MT", cursive;
