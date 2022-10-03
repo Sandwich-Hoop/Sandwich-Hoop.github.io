@@ -61,6 +61,26 @@ function displayMessage(){
 }
 
 </script>
+<style> 
+  #image {
+    display: none;
+  }
+</style>
+<div>
+<img id="image" src="https://iili.io/L4BrEG.md.jpg" alt="L4BrEG.md.jpg" border="0"></a>
+
+</div>
+<button type="button"
+        onclick="show()" id="btnID">
+  Show image
+</button>
+<script> funtion show() {
+    document.getElementById('image')
+      .style.display = "block";
+    document.GetElementById('btnID')
+      .style.display = "none";
+  }
+</script>
 </body>
 </html>
 </body>
