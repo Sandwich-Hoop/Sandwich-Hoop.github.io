@@ -40,6 +40,8 @@ color: blue;
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
   color: white;
   display: block;
 }
