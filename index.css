@@ -48,7 +48,7 @@ color: blue;
 
 /* When you mouse over the navigation links, change their color */
 .sidenav a:hover {
-  color: yellow;
+  color: #f1f1f1;
 }
 
 /* Style page content */
