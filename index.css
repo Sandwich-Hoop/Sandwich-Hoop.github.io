@@ -17,8 +17,8 @@ p {
   text-align: center;
   font-weight: bold;
 }
-
-button1 { 
+button {
+ID = btnID
 color: blue;
 
 }
