@@ -2,7 +2,20 @@ body {
   background-color: white;
 }
 
-  
+h1{
+    color: black;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+  }
+h2{
+    color: black;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+  }
 
 
 
