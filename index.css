@@ -16,7 +16,10 @@ h2{
   font-weight: bold;
   }
 
-
+    btn1 { 
+    	display: inline-block; 
+    	float: right; 
+    } 
 
 
 p {
