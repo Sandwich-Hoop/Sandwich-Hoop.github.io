@@ -7,15 +7,16 @@ body {
 
 background-color:   #2C2F33 ;
 
+
 position: fixed;
     bottom: 0;
   
-  left: 250;
-  right: 250;
+  left: 33%;
+  
     width: 33%;
     float: center;
 height: 60px;
-
+text-align: center;
 }
 h1{
     color: white;
@@ -32,6 +33,7 @@ h3{
   font-size: 20px;
   font-weight: bold;
   position: fixed;
+    left: 44%;
   }
 
 
