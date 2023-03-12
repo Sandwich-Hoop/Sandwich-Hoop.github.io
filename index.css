@@ -2,7 +2,14 @@ body {
   background-color: #36393e;
 }
 
+.social {
 
+  position: fixed;
+    left: 40%;
+
+
+
+}
 .footer {
 
 background-color:   #2C2F33 ;
