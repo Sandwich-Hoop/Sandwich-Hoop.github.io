@@ -38,9 +38,10 @@ background-color:   #2C2F33 ;
   left: 33%;
   
     width: 33%;
-    float: center;
+    float: right;
 height: 9%;
-text-align: center;
+align: right;
+  text-align: right;
 }
 h1{
     color: white;
