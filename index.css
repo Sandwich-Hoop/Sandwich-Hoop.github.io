@@ -13,7 +13,7 @@ body {
 
   align: left;
 text-align: left;
-
+left: 180px;
 
 }
 
@@ -21,14 +21,14 @@ text-align: left;
 
  align: left;
 text-align: left;
-
+left: 180px;
 
 }
 .VIII {
 
  align: left;
 text-align: left;
-
+left: 180px;
 
 }
 .footer {
@@ -84,10 +84,11 @@ h2{
 
 h5{
     color: white;
-  text-align: center;
+  text-align: left;
   font-family: Arial, sans-serif;
   font-size: 20;
   font-weight: bold;
+  left: 180px;
   }
 
 
