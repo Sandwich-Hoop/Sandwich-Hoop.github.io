@@ -151,8 +151,8 @@ margin-left: 180px;
 .main {
   margin-left: 160px; /* Same as the width of the sidebar */
   padding: 0px 10px;
-  align: right;
-  text-align: right;
+  align: left;
+  text-align: left;
   font-family: arial;
   font-size: 18;
   
