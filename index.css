@@ -105,10 +105,10 @@ p {
   font-weight: bold;
   color: black;
 }
-button {
-ID = btnID;
-color: blue;
+#btnID {
 
+
+left: 180px;
 }
  /* The sidebar menu */
 .sidenav {
