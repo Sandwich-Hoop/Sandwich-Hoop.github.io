@@ -14,7 +14,7 @@ position: relatve;
 
   align: left;
 text-align: left;
-left: 180px;
+margin-left: 180px;
 
 }
 
@@ -23,7 +23,7 @@ position: relatve;
 
  align: left;
 text-align: left;
-left: 180px;
+margin-left: 180px;
 
 }
 .VIII {
@@ -31,7 +31,7 @@ position: relatve;
 
  align: left;
 text-align: left;
-left: 180px;
+margin-left: 180px;
 
 }
 .footer {
@@ -92,7 +92,7 @@ h5{
   font-family: Arial, sans-serif;
   font-size: 20;
   font-weight: bold;
-  left: 33%;
+margin-left: 180px;
   position: relatve;
 
   }
@@ -114,7 +114,7 @@ p {
 #btnID {
 
 position: relatve;
-left: 180px;
+margin-left: 180px;
 }
  /* The sidebar menu */
 .sidenav {
