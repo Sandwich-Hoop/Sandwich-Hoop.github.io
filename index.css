@@ -11,20 +11,20 @@ body {
 
 .VII {
 
-  align: left;
+  align: right;
 
 
 }
 
 .VIV {
 
-align: left;
+align: right;
 
 
 }
 .VIII {
 
-align: left;
+align: right;
 
 
 }
@@ -132,8 +132,8 @@ color: blue;
 .main {
   margin-left: 160px; /* Same as the width of the sidebar */
   padding: 0px 10px;
-  align: center;
-  text-align: center;
+  align: right;
+  text-align: right;
   font-family: arial;
   font-size: 18;
   
