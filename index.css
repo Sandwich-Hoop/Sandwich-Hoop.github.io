@@ -147,8 +147,13 @@ p {
   font-size: 20px;
   text-align: left;
   font-weight: bold;
-  color: black;
- 
+  color: White;
+ margin-left: 25% ;
+ margin-right: 25% ;
+  background-color: #2c2f33 ;
+  border-radius: 25px;
+  border: 16px solid #23272A;
+  padding: 20px; 
 }
 #btnID {
 
